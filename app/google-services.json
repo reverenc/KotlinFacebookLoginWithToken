@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "543319291223",
+    "firebase_url": "https://kotlinfacebookloginwithtoken.firebaseio.com",
+    "project_id": "kotlinfacebookloginwithtoken",
+    "storage_bucket": "kotlinfacebookloginwithtoken.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543319291223:android:5fdfb53c853fdea6fd7a12",
+        "android_client_info": {
+          "package_name": "com.example.kotlinfacebookloginwithtoken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543319291223-227dg8kn3uve4cpmkavdnmotku33scrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlinfacebookloginwithtoken",
+            "certificate_hash": "1d3d333c96ee5f108a9e1259328ae03e52d2fc12"
+          }
+        },
+        {
+          "client_id": "543319291223-psavk76rt0eot5r1908omu1kb5nf8jc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlinfacebookloginwithtoken",
+            "certificate_hash": "25d56e1585aff1b1ab197c09f9f80f310e0f147f"
+          }
+        },
+        {
+          "client_id": "543319291223-v6p24n8ppo78qqsook9qvka3q6boakrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5XH5LVWmtC5q7jl_NgkwjVELlyyQMs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543319291223-v6p24n8ppo78qqsook9qvka3q6boakrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
